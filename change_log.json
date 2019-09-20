@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.7",
-  "latestVersionCode": 7,
+  "latestVersion": "1.8",
+  "latestVersionCode": 8,
   "url": "https://github.com/a43554/store_signal/releases/latest/download/app-debug.apk",
   "releaseNotes": [
-    "- Fixed issue with multi line on input fields.",
-    "- Changed version from 1.6 to 1.7."
+    "- Fixed issue with UI text display.",
+    "- Changed version from 1.7 to 1.8."
   ]
 }
